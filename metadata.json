@@ -1,8 +1,0 @@
-{
-  "name": "جدول تناوبی عناصر شیمی",
-  "description": "جدول تناوبی کامل ۱۱۸ عنصر شیمی همراه با آزمایشگاه سه بعدی فیزیک و شیمی",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
